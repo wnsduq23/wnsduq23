@@ -3,7 +3,7 @@
 E-mail : wnsduq23@naver.com cardet (22.03.07~)
 
 ## 💻 My Stack
-<img alt="42" src ="https://img.shields.io/badge/42-#000000.svg?&style=for-the-badge&logo=Cardet&logoColor=000000"/>
+<img alt="42" src ="https://img.shields.io/badge/42-000000.svg?&style=for-the-badge&logo=Cardet&logoColor=white"/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnsduq23)](https://solved.ac/wnsduq23)
