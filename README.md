@@ -3,11 +3,12 @@
 E-mail : wnsduq23@naver.com cardet (22.03.07~)
 
 ## 💻 My Stack
-<img alt="42" src ="https://img.shields.io/badge/42-000000.svg?&style=for-the-badge&logo=Cardet&logoColor=white"/>
+<img alt="42" src ="https://img.shields.io/badge/42-000000.svg?&style=for-the-badge&logo=42&logoColor=000000"/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnsduq23)](https://solved.ac/wnsduq23)
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>42</title><path d="M24 12.42l-4.428 4.415H24zm-4.428-4.417l-4.414 4.418v4.414h4.414V12.42L24 8.003V3.575h-4.428zm-4.414 0l4.414-4.428h-4.414zM0 15.996h8.842v4.43h4.412V12.42H4.428l8.826-8.846H8.842L0 12.421z"/></svg>
+![42](https://user-images.githubusercontent.com/58794964/157680540-149cf051-5b36-4257-9af9-c8e4ace27b31.svg)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsduq23)](https://github.com/wnsduq23/github-readme-stats)
