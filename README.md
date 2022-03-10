@@ -5,7 +5,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnsduq23)](https://solved.ac/wnsduq23)
 
 ## 💻 My Stack
-<img alt="JAVA" src ="https://img.shields.io/badge/java-white.svg?&style=for-the-badge&logo=Java&logoColor=007396"/>
+<img alt="JAVA" src ="https://img.shields.io/badge/java-E34F26.svg?&style=for-the-badge&logo=Java&logoColor=007396"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsduq23)](https://github.com/wnsduq23/github-readme-stats)
