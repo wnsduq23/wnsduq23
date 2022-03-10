@@ -8,7 +8,5 @@ E-mail : wnsduq23@naver.com cardet (22.03.07~)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnsduq23)](https://solved.ac/wnsduq23)
 
-![42](https://user-images.githubusercontent.com/58794964/157680540-149cf051-5b36-4257-9af9-c8e4ace27b31.svg)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsduq23)](https://github.com/wnsduq23/github-readme-stats)
