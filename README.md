@@ -7,6 +7,6 @@
 
 ## 💻 My Stack
 <img alt="JAVA" src ="https://img.shields.io/badge/java-3DDC84.svg?&style=for-the-badge&logo=Java&logoColor=007396"/>
-
+src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsduq23)](https://github.com/wnsduq23/github-readme-stats)
